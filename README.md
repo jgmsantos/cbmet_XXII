@@ -3,9 +3,10 @@
 ## Informações gerais sobre o curso:
 
 * Curso: Python aplicado a Meteorologia.
-* Dia: 30/11.
+* Ministrante: Dr. Guilherme Martins - jgmsantos@gmail.com.
+* Dia 1: 30/11/2022.
   * Duração: 2 horas (16h00-18h00).
-* Dia: 01/12.
+* Dia 2: 01/12/2022.
   * Duração: 2horas (16h00-18h00).
 * Local: Fundeb - Sala Urano.
 
@@ -43,11 +44,15 @@
 
 ## Conteúdo programático
 
-### Dia 1 (30/11/2022)
+* Manipulação de arquivo texto utilizando pandas.
+* Biblioteca xarray para abrir e manipular arquivo no formato NetCDF.
+* Geração de figuras.
+* Criação de painel complexo para geração de figuras.
 
-* Criação de painel complexo para geração de figuras
+## Material de apoio
 
-### Dia 2 (01/12/2022)
+* [Aplicações de Python em Geociências](https://drive.google.com/file/d/15_62F9lb21XDhCsYL_YoKIuuAATNWpNw/view)
+* [https://guilherme.readthedocs.io/en/latest/pages/tutoriais/python.html](https://guilherme.readthedocs.io/en/latest/pages/tutoriais/python.html)
 
 ## Rede sociais
 
