@@ -46,9 +46,9 @@
 
 ## Conteúdo programático (EM CONSTRUÇÃO!!!)
 
-* Biblioteca xarray para abrir e manipular arquivo no formato NetCDF.
+* Biblioteca xarray para abrir e manipular arquivo no formato NetCDF (nome do script: ```xarray.ipynb```).
 * Geração de figuras.
-* Criação de painel complexo para geração de figuras.
+* Criação de painel complexo para geração de figuras (nome do script: ```gridspec.ipynb```).
 
 ## Material de apoio
 
