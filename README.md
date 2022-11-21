@@ -1,6 +1,6 @@
 # Scripts para o curso de Python realizado no Congresso Brasileiro de Meteorologia em 2002 - Edição XXII
 
-## Informações gerais sobre o curso:
+## Informações gerais sobre o curso
 
 * Curso: Python aplicado a Meteorologia.
 * Ministrante: Dr. Guilherme Martins - jgmsantos@gmail.com.
@@ -10,7 +10,7 @@
   * Duração: 2horas (16h00-18h00).
 * Local: Fundeb - Sala Urano.
 
-## Criação do ambiente virtual:
+## Criação do ambiente virtual
 * Para criar um ambiente virtual para quem usa conda, basta digitar o comando abaixo. E para quem não usa, basta seguir para o próximo item de instalação de bibliotecas.
 
 ```conda create -n cbmet python=3.9.12```
@@ -41,6 +41,8 @@
 ```pip install pygeos==0.12.0```
 
 ```pip install rtree==1.0.0```
+
+```conda install -c conda-forge ncview```
 
 ## Conteúdo programático (EM CONSTRUÇÃO!!!)
 
