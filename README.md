@@ -45,4 +45,12 @@
 
 ### Dia 1 (30/11/2022)
 
+* Criação de painel complexo para geração de figuras
+
 ### Dia 2 (01/12/2022)
+
+## Rede sociais
+
+* [Minha página pessoal](https://guilherme.readthedocs.io/en/latest)
+* [Canal no Youtube](https://www.youtube.com/c/CursosLibertatem)
+* [Instagram](https://www.instagram.com/cursos.libertatem)
