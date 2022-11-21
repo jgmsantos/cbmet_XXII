@@ -46,7 +46,6 @@
 
 ## Conteúdo programático (EM CONSTRUÇÃO!!!)
 
-* Manipulação de arquivo texto utilizando pandas.
 * Biblioteca xarray para abrir e manipular arquivo no formato NetCDF.
 * Geração de figuras.
 * Criação de painel complexo para geração de figuras.
