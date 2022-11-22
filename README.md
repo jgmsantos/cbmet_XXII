@@ -44,7 +44,7 @@
 
 ```conda install -c conda-forge ncview```
 
-## Conteúdo programático (EM CONSTRUÇÃO!!!)
+## Conteúdo programático
 
 * Biblioteca xarray para abrir, manipular e processar arquivos no formato NetCDF (nome do script: ```xarray.ipynb```).
 * Geração de figuras.
