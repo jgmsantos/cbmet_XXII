@@ -1,4 +1,4 @@
-# Scripts para o curso de Python realizado no Congresso Brasileiro de Meteorologia em 2002 - Edição XXII
+# Scripts para o curso de Python aplicado a Meteorologia realizado no Congresso Brasileiro de Meteorologia em 2022 - Edição XXII
 
 ## Informações gerais sobre o curso
 
