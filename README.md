@@ -46,9 +46,15 @@
 
 ## Conteúdo programático
 
-* Biblioteca xarray para abrir, manipular e processar arquivos no formato NetCDF (nome do script: ```xarray.ipynb```).
-* Geração de figuras.
-* Criação de painel complexo para geração de figuras (nome do script: ```gridspec.ipynb```).
+* Biblioteca xarray para abrir, manipular e processar arquivos no formato NetCDF (nome do script: ```xarray.ipynb```)
+* Geração de figuras (nome do script: ```graficos.ipynb```)
+  * Gráfico de linha
+  * Gráfico de barra
+  * Gráfico espacial
+  * Uso do shapefile
+    * Adicionar shapefile ao mapa
+    * Uso do shapefile para mascarar o dado
+* Criação de painel complexo para geração de figuras (nome do script: ```gridspec.ipynb```)
 
 ## Material de apoio
 
@@ -60,3 +66,8 @@
 * [Minha página pessoal](https://guilherme.readthedocs.io/en/latest)
 * [Canal no Youtube](https://www.youtube.com/c/CursosLibertatem)
 * [Instagram](https://www.instagram.com/cursos.libertatem)
+
+## Frase motivacional
+
+* Se quer ir rápido, vá sozinho. Se quer ir longe, vá com os amigos. **Provérbio Africano**.
+* Conheça todas as teorias, domine todas as técnicas, mas ao tocar uma alma humana, seja apenas outra alma humana. **Carl Gustav Jung**.
