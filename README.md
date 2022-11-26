@@ -10,6 +10,29 @@
   * Duração: 2horas (16h00-18h00).
 * Local: Fundeb - Sala Urano.
 
+## Conteúdo programático
+
+* Biblioteca xarray para abrir, manipular e processar arquivos no formato NetCDF (nome do script: ```xarray.ipynb```)
+* Geração de figuras (nome do script: ```graficos.ipynb```)
+  * Gráfico de linha
+  * Gráfico de barra
+  * Gráfico espacial
+  * Uso do shapefile
+    * Adicionar shapefile ao mapa
+    * Uso do shapefile para mascarar o dado
+* Criação de painel complexo para geração de figuras (nome do script: ```gridspec.ipynb```)
+
+## Material de apoio
+
+* [Aplicações de Python em Geociências](https://drive.google.com/file/d/15_62F9lb21XDhCsYL_YoKIuuAATNWpNw/view)
+* [https://guilherme.readthedocs.io/en/latest/pages/tutoriais/python.html](https://guilherme.readthedocs.io/en/latest/pages/tutoriais/python.html)
+
+## Rede sociais
+
+* [Minha página](https://guilherme.readthedocs.io/en/latest)
+* [Canal no Youtube](https://www.youtube.com/c/CursosLibertatem)
+* [Instagram](https://www.instagram.com/cursos.libertatem)
+
 ## Criação do ambiente virtual
 * Para criar um ambiente virtual para quem usa conda, basta digitar o comando abaixo. E para quem não usa, basta seguir para o próximo item de instalação de bibliotecas.
 
@@ -43,29 +66,6 @@
 ```pip install rtree==1.0.0```
 
 ```conda install -c conda-forge ncview```
-
-## Conteúdo programático
-
-* Biblioteca xarray para abrir, manipular e processar arquivos no formato NetCDF (nome do script: ```xarray.ipynb```)
-* Geração de figuras (nome do script: ```graficos.ipynb```)
-  * Gráfico de linha
-  * Gráfico de barra
-  * Gráfico espacial
-  * Uso do shapefile
-    * Adicionar shapefile ao mapa
-    * Uso do shapefile para mascarar o dado
-* Criação de painel complexo para geração de figuras (nome do script: ```gridspec.ipynb```)
-
-## Material de apoio
-
-* [Aplicações de Python em Geociências](https://drive.google.com/file/d/15_62F9lb21XDhCsYL_YoKIuuAATNWpNw/view)
-* [https://guilherme.readthedocs.io/en/latest/pages/tutoriais/python.html](https://guilherme.readthedocs.io/en/latest/pages/tutoriais/python.html)
-
-## Rede sociais
-
-* [Minha página pessoal](https://guilherme.readthedocs.io/en/latest)
-* [Canal no Youtube](https://www.youtube.com/c/CursosLibertatem)
-* [Instagram](https://www.instagram.com/cursos.libertatem)
 
 ## Frase motivacional
 
